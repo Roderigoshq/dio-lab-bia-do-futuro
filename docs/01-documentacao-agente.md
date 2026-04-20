@@ -74,7 +74,6 @@ flowchart TD
 - [ x ] Aviso Legal: Todas as interações são acompanhadas da premissa de que o conteúdo é educativo e não constitui aconselhamento financeiro profissional.
 
 ### Limitações Declaradas
-> O que o agente NÃO faz?
 
 Não faz Stock Picking: O agente não diz "compre a ação X" ou "venda a ação Y". Ele fornece as ferramentas e o conhecimento para que o utilizador tome a sua própria decisão.
 Não gere carteiras: O agente não tem acesso a contas bancárias ou corretoras para executar transações.
