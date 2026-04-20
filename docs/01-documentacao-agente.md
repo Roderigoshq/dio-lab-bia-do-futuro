@@ -1,6 +1,3 @@
-Com certeza. Aqui tens o conteúdo estruturado em formato Markdown (bloco de código) para que possas copiar e colar diretamente no teu ficheiro README.md:
-
-Markdown
 # Documentação do Agente: Valora
 
 ## Caso de Uso
